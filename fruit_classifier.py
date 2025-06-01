@@ -232,7 +232,7 @@ if __name__ == '__main__':
     epochs = 4                  # 训练次数（周期）
     max_lr = 0.01               # 最大学习率
     grad_clip = 0.1             # 梯度裁剪（防止梯度爆炸）
-    weight_decay = 1e-4         # 权重衰减
+    weight_decay = 0.001        # 权重衰减
     opt_func = torch.optim.Adam # 启用Adam优化器
     history = []
 
