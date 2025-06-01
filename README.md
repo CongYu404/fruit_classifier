@@ -1,6 +1,6 @@
 # 水果图像分类器
 
-该项目使用 PyTorch 构建了一个卷积神经网络(CNN)，用于对水果图像进行分类。模型在 [Fruits-360 数据集](https://www.kaggle.com/datasets/moltean/fruits) 上训练，能够识别 131 种不同种类的水果。
+该项目使用 PyTorch 构建了一个卷积神经网络(CNN)，用于对水果图像进行分类。模型在 [Fruits-360 数据集](https://www.kaggle.com/datasets/moltean/fruits) 上训练，能够识别 131 种不同种类的水果。这是我的期末作业，开源给大家供以学习
 
 ## 功能特点
 
